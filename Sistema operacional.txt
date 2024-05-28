@@ -1,0 +1,18 @@
+Sistemas operacionais:
+
+Um sistema operacional é um software ou conjunto de softwares que gerencia e administra todos os recursos presentes em um sistema. Desde os componentes de hardware até os arquivos e aplicativos. O sistema operacional é o protocolo operacional básico do computador, coordenando todas as outras funções de comunicação, processamento e interface do usuário.
+O sistema operacional é responsável por administrar e gerenciar os recursos de um sistema, estabelecendo a interface entre o computador e o usuário. Ele transforma comandos do mouse, teclado e solicitações do sistema (como gerenciamento de recursos, CPU e memória RAM) em linguagem de máquina, enviando instruções ao processador. O sistema operacional contém componentes para o usuário (como bibliotecas, programas e interface) e instruções que compõem o seu núcleo no caso o kernel, que é a parte central do sistema operacional e desempenha tarefas cruciais, como estabelecer a camada de abstração de baixo nível com o hardware, gerenciar recursos como processador, RAM, sistemas de arquivos e dispositivos de entrada e saída como monitor, teclado, mouse, impressora, etc. Alem de gerenciar processos de programas e definir prioridades.
+Diferença entre kernel e firmware: O kernel é responsável pela interação entre usuário e hardware, enquanto o firmware é um conjunto de instruções programadas diretamente no hardware, contendo parâmetros específicos para a operação de um dispositivo. Exemplos de firmware incluem a BIOS (Sistema Básico de Entrada e Saída) e a UEFI (Interface Extensível Unificada de Firmware).
+O autor do livro sistemas operacionais modernos, Tanenbaum, justifica que o sistema operacional surgiu para intermediar o diálogo entre máquina e pessoa programadora (ou mesmo usuário/a mais avançado). De uma forma simplificada o sistema operacional é como um maestro. Ele é o responsável por dizer quando cada instrumento deve  tocar garantindo a harmonia da orquestra, ou seja, sem um sistema operacional o computador não saberia o que fazer!
+
+
+
+https://tecnoblog.net/responde/o-que-e-um-sistema-operacional
+
+
+
+https://conceitosdomundo.pt/sistema-operativo
+
+
+
+https://www.canalti.com.br/sistemas-operacionais/sistema-operacional-fundamentos-funcionamento-e-tipos-de-so-informatica-basica
